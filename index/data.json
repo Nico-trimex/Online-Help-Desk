@@ -1,0 +1,41 @@
+{
+    "barangay": {
+      "name": "Tagapo",
+      "location": "Santa Rosa, Laguna, Philippines",
+      "population": 25000,
+      "officials": {
+        "barangayCaptain": "Juan Dela Cruz",
+        "kagawads": [
+          "Maria Santos",
+          "Pedro Reyes",
+          "Luisa Garcia",
+          "Jose Hernandez",
+          "Anna Cruz",
+          "Ramon Lopez",
+          "Carmen Rivera",
+          "Antonio Reyes"
+        ]
+      },
+      "services": [
+        {
+          "name": "Barangay Clearance",
+          "description": "A document proving that a resident is a bonafide member of Barangay Tagapo."
+        },
+        {
+          "name": "Permits",
+          "description": "Various permits for events, construction, and other activities within the barangay."
+        },
+        {
+          "name": "Certificates",
+          "description": "Official certificates for births, marriages, and other important life events."
+        }
+        // Add more services as needed
+      ],
+      "contactInformation": {
+        "barangayHallAddress": "123 Tagapo St., Santa Rosa, Laguna",
+        "contactNumber": "+63 912 345 6789",
+        "email": "tagapo.barangay@example.com"
+      }
+    }
+  }
+  
